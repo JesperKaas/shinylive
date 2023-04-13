@@ -13,3 +13,12 @@ To init server
 link
 # http://localhost:8008/
 <crtl + c> to end
+
+
+# Andre links
+https://github.com/RamiKrispin/shinylive
+
+Bemærk at nogle af de commands han benytter er forældet 
+
+# https://jesperkaas.github.io/shinylive/
+Min wasm github 
