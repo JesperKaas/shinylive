@@ -1,0 +1,15 @@
+github setup - simple 2 min
+# https://www.youtube.com/watch?v=3Tn58KQvWtU&ab_channel=DevWorld
+
+
+
+
+To add docs
+# shinylive export myapp docs
+
+To init server
+# py -m http.server --directory docs 8008
+
+link
+# http://localhost:8008/
+<crtl + c> to end
