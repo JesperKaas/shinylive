@@ -4,7 +4,7 @@ github setup - simple 2 min
 
 
 
-To add docs
+To add docs / or when updating
 # shinylive export myapp docs
 
 To init server
